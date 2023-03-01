@@ -42,6 +42,12 @@
       </a>
       <br>JavaScript
     </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://brandeps.com/logo-download/T/Typescript-logo-vector-02.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
     <td align="center" width="96">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
