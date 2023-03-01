@@ -50,12 +50,6 @@
     </td>
     <td align="center" width="96"> 
       <a href="#" >
-        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
-      </a>
-      <br>Yarn
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
       </a>
       <br>Npm
