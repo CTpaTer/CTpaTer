@@ -102,7 +102,7 @@
 
 ### Социальные сети
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CTpaTer&show_icons=true&locale=en&layout=compact&theme=react" alt="chervyakov" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CTpaTer&show_icons=true&locale=en&layout=compact&theme=react" alt="CTpaTer" />
 </a>
 
 
