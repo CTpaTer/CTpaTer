@@ -106,4 +106,4 @@
 </a>
 
 
-- :airplane: &nbsp;**[Telegram](https://t.me/dromon)**
+- :telegram: &nbsp;**[Telegram](https://t.me/dromon)**
