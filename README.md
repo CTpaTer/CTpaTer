@@ -106,4 +106,4 @@
 </a>
 
 
-- ✈️: &nbsp;**[Telegram](https://t.me/dromon)**
+- ✈️ **[Telegram](https://t.me/dromon)**
