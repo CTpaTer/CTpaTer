@@ -1,5 +1,5 @@
 <h1 align="center">Привет, меня зовут Павел!</h1>
-<h3 align="center">Я изучаю JS и еще несколько интересных технологий</h3>
+<h3 align="center">Я хочу стать web-разработчиком на JavaScript</h3>
 
 ### Мои работы
 * [x] Клиент-серверное <a href="https://chervyakov-vladislav.github.io/rs-clone/" target="_blank">приложение</a> на TS. Клон kinopoisk  (<a href="https://github.com/ctpater/rs-clone" target="_blank">репозиторий</a>)
