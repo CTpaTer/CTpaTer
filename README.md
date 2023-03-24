@@ -1,6 +1,11 @@
 <h1 align="center">Привет, меня зовут Павел!</h1>
 <h3 align="center">Я изучаю JS и еще несколько интересных технологий</h3>
 
+### Мои работы
+* [x] Клиент-серверное <a href="https://chervyakov-vladislav.github.io/rs-clone/" target="_blank">приложение</a> на TS. Клон kinopoisk  (<a href="https://github.com/ctpater/rs-clone" target="_blank">репозиторий</a>)
+* [x] <a href="https://ctpater.github.io/puzzle" target="_blank">Игра</a> в пятнашки на JS  (<a href="https://github.com/CTpaTer/puzzle" target="_blank">репозиторий</a>)
+* [x] <a href="https://ctpater.github.io/songbird/" target="_blank">Квиз</a> на JS  (<a href="https://github.com/CTpaTer/songbird" target="_blank">репозиторий</a>)
+
 🗺️ **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Изучение верстки
@@ -12,11 +17,6 @@
 <!-- TODO-IST:END -->
 
 
-### Что я умею
-
-* [x] <a href="https://ctpater.github.io/puzzle" target="_blank">Игра</a> в пятнашки на JS  (<a href="https://github.com/CTpaTer/puzzle" target="_blank">репозиторий</a>)
-* [x] <a href="https://ctpater.github.io/songbird/" target="_blank">Квиз</a> на JS  (<a href="https://github.com/CTpaTer/songbird" target="_blank">репозиторий</a>)
-* [x] Верстка online-zoo <a href="https://chervyakov-vladislav.github.io/online-zoo/online-zoo/" target="_blank">page</a> (<a href="https://github.com/chervyakov-vladislav/online-zoo" target="_blank">репозиторий</a>)
 
 ### Стек технологий
 
