@@ -11,8 +11,8 @@
 * [x] Изучение верстки
 * [x] Изучение UX/UI
 * [x] Освоить frontend tooling (git, webpack, и.т.д.)
-* [ ] Пройти курс по JavaScript и React в <a href="https://rollingscopes.com/" target="_blank">rollingscopes.com</a>
-* [ ] Создать порфолио на react и vue
+* [x] Пройти курс по JavaScript и React в <a href="https://rollingscopes.com/" target="_blank">rollingscopes.com</a>
+* [ ] Создать порфолио на react
 * [ ] Сменить сферу деятельности на frontend
 <!-- TODO-IST:END -->
 
