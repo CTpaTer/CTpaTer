@@ -53,8 +53,7 @@
     <td align="center" width="96">
       <a href="#" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-        <img src="" width="48" height="48" alt="Git" />
-      </a>
+        </a>
       <br>React
     </td>
    <td align="center" width="96">
