@@ -3,7 +3,7 @@
 
 ### Мои работы
 * [x] <a href="https://react-pizza-ctpater.vercel.app/" target="_blank">Интернет магазин</a> на React. React pizza  (<a href="https://github.com/CTpaTer/react-pizza" target="_blank">репозиторий</a>)
-* [x] Клиент-серверное <a href="https://chervyakov-vladislav.github.io/rs-clone/" target="_blank">приложение</a> на TS. Клон kinopoisk  (<a href="https://github.com/ctpater/rs-clone" target="_blank">репозиторий</a>)
+* [x] Клиент-серверное <a href="https://chervyakov-vladislav.github.io/rs-clone/" target="_blank">приложение</a> на TS. Клон kinopoisk Работа в команде. (<a href="https://github.com/ctpater/rs-clone" target="_blank">репозиторий</a>)
 * [x] Клиент-серверное <a href="https://rolling-scopes-school.github.io/ctpater-JSFE2022Q3/async-race/" target="_blank">приложение-гонки</a> на TS  (<a href="https://github.com/ctpater/async-race" target="_blank">репозиторий</a>)
 * [x] <a href="https://ctpater.github.io/puzzle" target="_blank">Игра</a> в пятнашки на JS  (<a href="https://github.com/CTpaTer/puzzle" target="_blank">репозиторий</a>)
 * [x] <a href="https://ctpater.github.io/songbird/" target="_blank">Квиз</a> на JS  (<a href="https://github.com/CTpaTer/songbird" target="_blank">репозиторий</a>)
